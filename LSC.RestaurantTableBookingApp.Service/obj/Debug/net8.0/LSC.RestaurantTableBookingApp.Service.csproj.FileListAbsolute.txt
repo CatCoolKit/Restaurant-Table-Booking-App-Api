@@ -1,0 +1,17 @@
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.deps.json
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.pdb
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.AssemblyInfoInputs.cache
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.AssemblyInfo.cs
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\refint\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.pdb
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\ref\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.dll
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.pdb
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.pdb
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.csproj.AssemblyReference.cache
+C:\Users\manhc\OneDrive\Documents\VPProjects\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.Rest.9CC470F7.Up2Date
