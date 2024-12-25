@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbPcGbG3wHE=",
+  "dgSpecHash": "FXK7+UB0pfU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj",
+  "projectFilePath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manhc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\manhc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

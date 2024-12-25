@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {}
+    "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {
+    "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj",
+        "projectUniqueName": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj",
         "projectName": "LSC.RestaurantTableBookingApp.Core",
-        "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj",
+        "projectPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj",
         "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\obj\\",
+        "outputPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

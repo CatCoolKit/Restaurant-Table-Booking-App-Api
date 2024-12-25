@@ -7101,11 +7101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
+      "projectUniqueName": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
       "projectName": "RestaurantTableBookingApp.API",
-      "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
+      "projectPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
       "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\obj\\",
+      "outputPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\RestaurantTableBookingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7126,14 +7126,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {
-              "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj"
+            "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj": {
+              "projectPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Core\\LSC.RestaurantTableBookingApp.Core.csproj"
             },
-            "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Data\\LSC.RestaurantTableBookingApp.Data.csproj": {
-              "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Data\\LSC.RestaurantTableBookingApp.Data.csproj"
+            "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Data\\LSC.RestaurantTableBookingApp.Data.csproj": {
+              "projectPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Data\\LSC.RestaurantTableBookingApp.Data.csproj"
             },
-            "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj": {
-              "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\RestaurantTableBookingApp\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj"
+            "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj": {
+              "projectPath": "D:\\Learn_CSharp\\Restaurant-Table-Booking-App-Api\\LSC.RestaurantTableBookingApp.Service\\LSC.RestaurantTableBookingApp.Service.csproj"
             }
           }
         }
